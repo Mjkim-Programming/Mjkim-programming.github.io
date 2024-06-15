@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0cc122e5.css",
+    "main.js": "/static/js/main.681de851.js",
+    "static/js/453.64512fd7.chunk.js": "/static/js/453.64512fd7.chunk.js",
+    "static/media/IMLlogo.png": "/static/media/IMLlogo.4db5563bb57afa245eef.png",
+    "index.html": "/index.html",
+    "main.0cc122e5.css.map": "/static/css/main.0cc122e5.css.map",
+    "main.681de851.js.map": "/static/js/main.681de851.js.map",
+    "453.64512fd7.chunk.js.map": "/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cc122e5.css",
+    "static/js/main.681de851.js"
+  ]
+}
