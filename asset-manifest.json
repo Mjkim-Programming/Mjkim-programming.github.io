@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e1cfbb55.css",
-    "main.js": "/static/js/main.ccd2a1dc.js",
+    "main.js": "/static/js/main.ee49bb6f.js",
     "static/js/453.64512fd7.chunk.js": "/static/js/453.64512fd7.chunk.js",
     "static/media/IMLlogo-001.png": "/static/media/IMLlogo-001.5ef4d73f5ffb0f8a04d7.png",
+    "static/media/IML_Banner-001.png": "/static/media/IML_Banner-001.efa78beacdde40886f59.png",
     "index.html": "/index.html",
     "main.e1cfbb55.css.map": "/static/css/main.e1cfbb55.css.map",
-    "main.ccd2a1dc.js.map": "/static/js/main.ccd2a1dc.js.map",
+    "main.ee49bb6f.js.map": "/static/js/main.ee49bb6f.js.map",
     "453.64512fd7.chunk.js.map": "/static/js/453.64512fd7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e1cfbb55.css",
-    "static/js/main.ccd2a1dc.js"
+    "static/js/main.ee49bb6f.js"
   ]
 }
